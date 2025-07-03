@@ -1,15 +1,308 @@
-/* Direct CSS - No Jekyll processing needed */
+/* VonVault Professional DeFi Platform Styling */
 
-/* Basic test styling */
-body {
-  background-color: #f0f8ff !important;
-}
-
+/* Header with gradient branding */
 .site-header {
-  background-color: #9333ea !important;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  border-top: 5px solid #9333ea !important;
+  box-shadow: 0 2px 20px rgba(102, 126, 234, 0.3) !important;
 }
 
 .site-title, .site-title:visited {
   color: white !important;
-  font-weight: bold !important;
+  font-size: 2.2rem !important;
+  font-weight: 700 !important;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.5) !important;
+  letter-spacing: 0.5px !important;
+}
+
+.site-nav .page-link {
+  color: rgba(255,255,255,0.9) !important;
+  font-weight: 500 !important;
+  transition: all 0.3s ease !important;
+}
+
+.site-nav .page-link:hover {
+  color: white !important;
+  transform: translateY(-1px) !important;
+}
+
+/* Enhanced content styling */
+.page-content {
+  padding-top: 3rem !important;
+  background: linear-gradient(180deg, #f8fafc 0%, #ffffff 100%) !important;
+}
+
+.wrapper {
+  max-width: 1200px !important;
+}
+
+/* Professional button styling */
+a[href*="github.com"], a[href*="vonartis.app"] {
+  display: inline-block !important;
+  background: linear-gradient(135deg, #9333ea, #7c3aed) !important;
+  color: white !important;
+  padding: 12px 24px !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+  transition: all 0.3s ease !important;
+  box-shadow: 0 4px 15px rgba(147, 51, 234, 0.3) !important;
+  margin: 0.5rem !important;
+}
+
+a[href*="github.com"]:hover, a[href*="vonartis.app"]:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 25px rgba(147, 51, 234, 0.4) !important;
+  background: linear-gradient(135deg, #a855f7, #8b5cf6) !important;
+}
+
+/* Enhanced table styling */
+table {
+  border-collapse: collapse !important;
+  margin: 2.5rem 0 !important;
+  background: white !important;
+  box-shadow: 0 4px 25px rgba(0,0,0,0.1) !important;
+  border-radius: 16px !important;
+  overflow: hidden !important;
+  width: 100% !important;
+  border: none !important;
+}
+
+table th {
+  background: linear-gradient(135deg, #667eea, #764ba2) !important;
+  color: white !important;
+  padding: 1.5rem !important;
+  text-align: left !important;
+  font-weight: 700 !important;
+  border: none !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+}
+
+table td {
+  padding: 1.5rem !important;
+  border-bottom: 1px solid #f3f4f6 !important;
+  border-left: none !important;
+  border-right: none !important;
+  vertical-align: top !important;
+  line-height: 1.6 !important;
+}
+
+table tr:hover {
+  background: linear-gradient(90deg, #f8fafc, #f1f5f9) !important;
+  transform: scale(1.005) !important;
+  transition: all 0.2s ease !important;
+}
+
+/* Professional heading styling */
+h1 {
+  color: #1e1b4b !important;
+  border-bottom: 3px solid #e5e7eb !important;
+  padding-bottom: 1rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.5px !important;
+  margin-top: 2rem !important;
+}
+
+h2 {
+  color: #312e81 !important;
+  border-bottom: 2px solid #e5e7eb !important;
+  padding-bottom: 0.8rem !important;
+  font-weight: 700 !important;
+  margin-top: 2.5rem !important;
+}
+
+h3 {
+  color: #6366f1 !important;
+  font-weight: 600 !important;
+  margin-top: 2rem !important;
+}
+
+/* Enhanced link styling */
+a {
+  color: #7c3aed !important;
+  transition: all 0.2s ease !important;
+}
+
+a:hover {
+  color: #9333ea !important;
+  text-decoration: underline !important;
+}
+
+/* Professional badge styling */
+img[src*="shields.io"] {
+  margin: 0.4rem !important;
+  border-radius: 6px !important;
+  transition: transform 0.2s ease !important;
+}
+
+img[src*="shields.io"]:hover {
+  transform: scale(1.05) !important;
+}
+
+/* Card-style content sections */
+.page-content div[align="center"] {
+  background: white !important;
+  padding: 2rem !important;
+  border-radius: 16px !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
+  margin: 2rem 0 !important;
+  border: 1px solid #e5e7eb !important;
+}
+
+/* Enhanced blockquote styling */
+blockquote {
+  background: linear-gradient(135deg, #f8fafc, #e2e8f0) !important;
+  border-left: 5px solid #9333ea !important;
+  padding: 1.5rem 2rem !important;
+  border-radius: 0 12px 12px 0 !important;
+  font-style: italic !important;
+  font-weight: 500 !important;
+  color: #475569 !important;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05) !important;
+}
+
+/* Enhanced list styling */
+ul, ol {
+  line-height: 1.8 !important;
+}
+
+li {
+  margin-bottom: 0.5rem !important;
+}
+
+/* Professional code styling */
+code {
+  background: linear-gradient(135deg, #f1f5f9, #e2e8f0) !important;
+  color: #475569 !important;
+  padding: 0.2rem 0.5rem !important;
+  border-radius: 4px !important;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace !important;
+  border: 1px solid #cbd5e1 !important;
+}
+
+pre {
+  background: linear-gradient(135deg, #1e293b, #334155) !important;
+  color: #e2e8f0 !important;
+  padding: 1.5rem !important;
+  border-radius: 12px !important;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2) !important;
+  margin: 2rem 0 !important;
+  overflow-x: auto !important;
+}
+
+pre code {
+  background: transparent !important;
+  color: inherit !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* Professional footer styling */
+.site-footer {
+  background: linear-gradient(135deg, #1e293b, #334155) !important;
+  color: #e2e8f0 !important;
+  border-top: 3px solid #9333ea !important;
+  padding: 2rem 0 !important;
+}
+
+.site-footer a {
+  color: #a78bfa !important;
+}
+
+.site-footer a:hover {
+  color: #c4b5fd !important;
+}
+
+/* Enhanced form styling */
+input, textarea, select {
+  border: 2px solid #e5e7eb !important;
+  border-radius: 8px !important;
+  padding: 0.75rem !important;
+  transition: all 0.3s ease !important;
+  font-size: 1rem !important;
+}
+
+input:focus, textarea:focus, select:focus {
+  border-color: #9333ea !important;
+  box-shadow: 0 0 0 3px rgba(147, 51, 234, 0.1) !important;
+  outline: none !important;
+}
+
+/* Responsive enhancements */
+@media (max-width: 768px) {
+  .site-title {
+    font-size: 1.8rem !important;
+  }
+  
+  table {
+    font-size: 0.9rem !important;
+  }
+  
+  table th, table td {
+    padding: 1rem !important;
+  }
+  
+  .page-content div[align="center"] {
+    padding: 1.5rem !important;
+    margin: 1.5rem 0 !important;
+  }
+  
+  h1 {
+    font-size: 1.8rem !important;
+  }
+  
+  h2 {
+    font-size: 1.5rem !important;
+  }
+  
+  a[href*="github.com"], a[href*="vonartis.app"] {
+    padding: 10px 20px !important;
+    font-size: 0.9rem !important;
+  }
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page-content > * {
+  animation: fadeInUp 0.6s ease-out !important;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+.site-title:hover {
+  animation: pulse 2s infinite !important;
+}
+
+/* Print styles */
+@media print {
+  .site-header, .site-footer {
+    display: none !important;
+  }
+  
+  .page-content {
+    background: white !important;
+  }
+  
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
 }
