@@ -4,11 +4,11 @@ description: "Building a new ecosystem with 9.95/10 security rating, 500+ wallet
 
 # Site settings
 url: "https://vonartis.github.io"
-baseurl: "/vonvault-documentation"
+baseurl: "/VonVault-Documentation"
 
 # GitHub repository
 github:
-  repository_name: "vonvault-documentation"
+  repository_name: "VonVault-Documentation"
   owner_name: "VonArtis"
 
 # Investment links
