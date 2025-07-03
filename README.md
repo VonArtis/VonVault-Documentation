@@ -24,7 +24,7 @@
 
 **World's Best DeFi Platform with Award-Winning Technology and Proven Revenue Model**
 
-[**📋 Complete Investment Package**](https://github.com/VonArtis/TG-Mini-App/blob/main/INVESTORS.md) | [**🎯 Investor Target List**](https://github.com/VonArtis/TG-Mini-App/blob/main/VonVault_Strategic_Investor_List.md) | [**🦄 Pitch Deck**](https://github.com/VonArtis/TG-Mini-App/blob/main/Unicorn_Investment_Pitch_Deck.md)
+[**📋 Complete Investment Package**](./investor-materials/INVESTORS.md) | [**🎯 Investor Target List**](./investor-materials/VonVault_Strategic_Investor_List.md) | [**🦄 Pitch Deck**](./investor-materials/Unicorn_Investment_Pitch_Deck.md)
 
 </div>
 
@@ -77,7 +77,7 @@ $2B AUM → $150M ARR → $1.5B-$3B Valuation
 🔥 **Revenue Model** - 7.5% AUM yield vs 0.1-0.5% industry standard  
 📈 **Clear Path** - Mathematical trajectory to unicorn valuation  
 
-**Contact:** [View Investment Materials](https://github.com/VonArtis/TG-Mini-App/blob/main/INVESTORS.md)
+**Contact:** [View Investment Materials](./investor-materials/README.md)
 
 ---
 
@@ -89,7 +89,7 @@ $2B AUM → $150M ARR → $1.5B-$3B Valuation
 
 **We're not just building a company - we're building a new ecosystem**
 
-[**💼 View Investment Materials**](https://github.com/VonArtis/TG-Mini-App/blob/main/INVESTORS.md)
+[**💼 View Investment Materials**](./investor-materials/INVESTORS.md)
 
 </div>
 
@@ -442,9 +442,9 @@ VonVault achieved **world-leading enterprise-grade security** with the **first c
 
 | 📖 **Resource** | 🎯 **Purpose** | 🔗 **Access** |
 |:---:|:---:|:---:|
-| **💼 Investment Materials** | Complete investment package | [View INVESTORS.md](https://github.com/VonArtis/TG-Mini-App/blob/main/INVESTORS.md) |
-| **🦄 Unicorn Pitch Deck** | 15-slide investor presentation | [View Pitch Deck](https://github.com/VonArtis/TG-Mini-App/blob/main/Unicorn_Investment_Pitch_Deck.md) |
-| **🎯 Strategic Investor List** | 20 research-backed VC targets | [View Investor List](https://github.com/VonArtis/TG-Mini-App/blob/main/VonVault_Strategic_Investor_List.md) |
+| **💼 Investment Materials** | Complete investment package | [View INVESTORS.md](./investor-materials/INVESTORS.md) |
+| **🦄 Unicorn Pitch Deck** | 15-slide investor presentation | [View Pitch Deck](./investor-materials/Unicorn_Investment_Pitch_Deck.md) |
+| **🎯 Strategic Investor List** | 20 research-backed VC targets | [View Investor List](./investor-materials/VonVault_Strategic_Investor_List.md) |
 | **🛡️ Security Documentation** | Progressive Enhanced 2FA details | [View Security](https://github.com/VonArtis/TG-Mini-App/blob/main/SECURITY.md) |
 | **🌍 Multi-Language Guide** | Implementation details | [View i18n Guide](https://github.com/VonArtis/TG-Mini-App/blob/main/MULTI_LANGUAGE_IMPLEMENTATION.md) |
 | **📋 Platform Source Code** | Complete development repository | [View Repository](https://github.com/VonArtis/TG-Mini-App) |
