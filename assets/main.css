@@ -1,0 +1,15 @@
+/* Direct CSS - No Jekyll processing needed */
+
+/* Basic test styling */
+body {
+  background-color: #f0f8ff !important;
+}
+
+.site-header {
+  background-color: #9333ea !important;
+}
+
+.site-title, .site-title:visited {
+  color: white !important;
+  font-weight: bold !important;
+}
