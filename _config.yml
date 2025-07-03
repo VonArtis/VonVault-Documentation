@@ -1,15 +1,23 @@
 theme: minima
-title: "VonVault - World's Most Secure DeFi Platform"
-description: "Experience the future of finance with 9.7/10 security rating, 15+ languages, and enterprise-grade DeFi innovation"
+title: "VonVault - World's Best DeFi Platform"
+description: "Building a new ecosystem with 9.95/10 security rating, 500+ wallet coverage, 15+ languages, and clear path to $1B+ unicorn valuation"
 
 # Site settings
 url: "https://vonartis.github.io"
-baseurl: "/VonVault-Documentation"
+baseurl: "/vonvault-documentation"
 
 # GitHub repository
 github:
-  repository_name: "VonVault-Documentation"
+  repository_name: "vonvault-documentation"
   owner_name: "VonArtis"
 
+# Investment links
+investment_materials: "https://github.com/VonArtis/TG-Mini-App/blob/main/INVESTORS.md"
+live_platform: "https://www.vonartis.app"
+main_repository: "https://github.com/VonArtis/TG-Mini-App"
+
 # Professional settings
-show_downloads: false
+show_downloads: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
