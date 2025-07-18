@@ -10,7 +10,7 @@
 [![Languages](https://img.shields.io/badge/🌍%20Languages-15+-blue?style=for-the-badge)](#-international-multi-language-support)
 [![Unicorn Path](https://img.shields.io/badge/🦄%20Unicorn%20Path-$1B+%20Valuation-purple?style=for-the-badge)](#unicorn-valuation-path)
 
-**🏆 Production-Ready • 🛡️ 9.95/10 Security • 🌍 15+ Languages • 💎 43+ Screens • 💰 Asset-Based Valuation $8M-$15M**
+**🏆 Production-Ready • 🛡️ 9.95/10 Security • 🌍 15+ Languages • 💎 43+ Screens • 💰 $12M Fixed Valuation**
 
 [**🚀 Start Your DeFi Journey →**](https://www.vonartis.app)
 
@@ -20,11 +20,9 @@
 
 <div align="center">
 
-### **🏆 $8M-$15M Platform Valuation • Asset-Based & Revenue-Ready**
+### **🏆 $12M Platform Valuation • Revenue-Ready DeFi Platform**
 
 **Proven DeFi Platform with $2M+ Development Investment and Advanced Technical Moats**
-
-[**📋 Complete Investment Package**](./investor-materials/INVESTORS.md) | [**🎯 Investor Target List**](./investor-materials/VonVault_Strategic_Investor_List.md) | [**💼 Investment Overview**](./investor-materials/Unicorn_Investment_Pitch_Deck.md)
 
 </div>
 
@@ -33,20 +31,20 @@
 <td width="50%" valign="top">
 
 ### 💰 **Investment Highlights**
-- **Current Valuation:** $8M-$15M (asset-based)
-- **Seeking:** $2M-$5M for user acquisition & scaling
+- **Fixed Valuation:** $12M (asset-based)
 - **Development Investment:** $2M+ over 6 months (completed)
 - **Platform Status:** Production-ready with advanced features
-- **Revenue Model:** 0.5-2% platform fees (industry standard)
+- **Revenue Model:** 13% profit margin on all AUM
 - **Technical Moats:** 6-12 months for competitors to replicate
 
 ### 🏗️ **Asset-Based Valuation**
 ```
 Development Investment: $2M+ (completed)
-Technical Assets: $3M-$5M (600+ wallet integration)
-IP & Competitive Moats: $2M-$4M (unique architecture)
-Market Position: $1M-$3M (first-mover advantages)
-Total Platform Value: $8M-$15M
+Technical Assets: $4M (600+ wallet integration)
+IP & Competitive Moats: $3M (unique architecture)
+Market Position: $2M (first-mover advantages)
+Brand & Recognition: $1M (industry awards)
+Total Platform Value: $12M (fixed)
 ```
 
 </td>
@@ -91,9 +89,45 @@ Total Platform Value: $8M-$15M
 
 <div align="center">
 
-### **🏆 $8M-$15M Platform Valuation • Revenue-Ready DeFi Platform**
+### **🏆 $12M Platform Valuation • Revenue-Ready DeFi Platform**
 
-**Seeking $2M-$5M from private investors to scale proven technology**
+**Seeking investment from private investors to scale proven technology**
+
+---
+
+## 💼 **Investment Options - Choose Your Structure**
+
+### 🎯 **Option 1: Revenue Share (Most Attractive)**
+```markdown
+$5M Investment = 30% Revenue Share
+• 30% of all VonVault profits until 400% return ($20M total)
+• No equity dilution for founders
+• Higher returns on successful growth
+• Clean exit after $20M payout
+• Estimated 4-6 year payout timeline
+```
+
+### 🏢 **Option 2: Equity Share (Standard)**
+```markdown
+$5M Investment = 41.7% Equity Share
+• 41.7% ownership of VonVault platform
+• Standard equity participation
+• Long-term ownership commitment
+• Exit via acquisition/IPO
+• Perpetual ownership rights
+```
+
+### 🚀 **Option 3: Hybrid Premium (Higher Investment)**
+```markdown
+$7M Investment = 25% Equity + 20% Revenue Share
+• 25% ownership of VonVault platform
+• 20% revenue share until 300% return ($15M total)
+• Premium for wanting both structures
+• Maximum investor participation
+• Combined upside potential
+```
+
+**Contact for Investment Terms:** [Direct inquiry preferred]
 
 </div>
 
@@ -306,7 +340,7 @@ Profit Margin: 13% on all Assets Under Management
 | $50M      | $6,500,000    | **$32,500,000**                 | +117% to +271% |
 | $100M     | $13,000,000   | **$65,000,000**                 | +333% to +542% |
 
-**Current Asset-Based Value: $8M-$15M**
+**Current Asset-Based Value: $12M**
 **Revenue Model Validation: At $10M AUM, revenue-based valuation aligns with asset-based valuation**
 ```
 
@@ -340,7 +374,7 @@ Profit Margin: 13% on all Assets Under Management
 
 **Risk Mitigation:**
 - Conservative 5x multiple provides margin of safety
-- Asset-based valuation ($8M-$15M) provides floor value
+- Asset-based valuation ($12M) provides floor value
 - Revenue model proven and scalable
 - Multiple valuation approaches align at $10M AUM level
 ```
