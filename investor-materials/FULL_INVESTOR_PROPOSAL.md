@@ -11,9 +11,8 @@
 ---
 
 **📞 CONTACT FOR INVESTMENT**
-**Email:** [insert-contact-email]
-**Phone:** [insert-contact-phone]
-**Location:** [insert-location]
+**Email:** info@vonartis.com
+**Phone:** +44 7833 435357 (WhatsApp Only)
 
 ---
 
@@ -217,13 +216,12 @@ Working Capital & Operations: $500,000 (7%)
 ```markdown
 📞 DIRECT CONTACT FOR INVESTMENT INQUIRIES
 
-Email: [insert-primary-contact-email]
-Phone: [insert-primary-contact-phone]
-Location: [insert-location]
-Available: [insert-availability]
+Email: info@vonartis.com
+Phone: +44 7833 435357 (WhatsApp Only)
+Available: Business hours or by appointment
 
-Secondary Contact: [insert-secondary-contact]
-Legal Counsel: [insert-legal-contact]
+Secondary Contact: Available upon request
+Legal Counsel: Available upon request
 ```
 
 ### 🎯 **Investment Timeline**
