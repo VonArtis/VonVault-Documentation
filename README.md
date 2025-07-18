@@ -12,6 +12,8 @@
 
 **🏆 Production-Ready • 🛡️ 9.95/10 Security • 🌍 15+ Languages • 💎 43+ Screens • 💰 $12M Fixed Valuation**
 
+[**📋 FULL INVESTOR PROPOSAL →**](./investor-materials/FULL_INVESTOR_PROPOSAL.md)
+
 [**🚀 Start Your DeFi Journey →**](https://www.vonartis.app)
 
 </div>
