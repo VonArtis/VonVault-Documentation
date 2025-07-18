@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 **Investment Highlights**
 - **Current Valuation:** $8M-$15M (asset-based)
@@ -50,7 +50,7 @@ Total Platform Value: $8M-$15M
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 **Competitive Moats**
 - **600+ Wallet Integration** - 6-12 months minimum to replicate
@@ -85,8 +85,6 @@ Total Platform Value: $8M-$15M
 - **Infrastructure Scaling:** $500K-$1M for platform capacity
 - **Working Capital:** $500K-$1M for operations
 
-**Contact:** [View Investment Materials](./investor-materials/README.md)
-
 ---
 
 ## 💼 **Private Investment Opportunity**
@@ -96,8 +94,6 @@ Total Platform Value: $8M-$15M
 ### **🏆 $8M-$15M Platform Valuation • Revenue-Ready DeFi Platform**
 
 **Seeking $2M-$5M from private investors to scale proven technology**
-
-[**💼 View Investment Materials**](./investor-materials/INVESTORS.md)
 
 </div>
 
@@ -115,7 +111,7 @@ Total Platform Value: $8M-$15M
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🛡️ **World's Most Secure**
 **9.95/10 Rating**
@@ -127,7 +123,7 @@ Total Platform Value: $8M-$15M
 - **Zero security incidents** in 6 months
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🌍 **Global Ecosystem**
 **15+ Languages**
@@ -138,7 +134,7 @@ Total Platform Value: $8M-$15M
 - **4+ billion** users accessible
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 💰 **Conservative Revenue Projections**
 **0.5-2% Platform Fees (Industry Standard)**
@@ -149,7 +145,7 @@ Total Platform Value: $8M-$15M
 - **Proven** business model in DeFi space
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 📱 **Universal Web3.0 Accessibility**
 **600+ Wallet Coverage**
@@ -175,7 +171,7 @@ Total Platform Value: $8M-$15M
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🏆 **Universal Coverage**
 **600+ Wallets**
@@ -188,7 +184,7 @@ Total Platform Value: $8M-$15M
 - **➕ 590+ More** - Automatic compatibility
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🌉 **Cross-Device Magic**
 **Desktop ↔ Mobile**
@@ -200,7 +196,7 @@ Total Platform Value: $8M-$15M
 - **Auto-Discovery** - EIP-6963 standard support
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### ⛓️ **Multi-Chain Ready**
 **5+ Blockchains**
@@ -213,7 +209,7 @@ Total Platform Value: $8M-$15M
 - **🌐 Future-proof** - New chains supported
 
 </td>
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🛡️ **Enterprise Security**
 **Bank-Grade Safety**
@@ -365,10 +361,41 @@ Profit Margin: 13% on all Assets Under Management
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 **Strategic Language Placement**
 - **🌟 Welcome Screen**: Prominent language selector - first thing users see
+- **🔑 Login/Signup**: Pre-authentication access removes barriers
+- **📱 Dashboard**: Globe icon with current language flag always visible  
+- **⚙️ Profile Settings**: Comprehensive language preferences section
+- **🔄 Instant Switching**: Real-time translation without page refresh
+
+### 🌐 **15 Supported Languages**
+- 🇺🇸 **English** *(Complete - 100%)*
+- 🇪🇸 **Español** *(Comprehensive - 80%+)*
+- 🇫🇷 **Français** *(Good Coverage - 60%+)*
+- 🇩🇪 🇮🇹 🇵🇹 🇷🇺 🇨🇳 🇯🇵 🇰🇷 **+ 9 More** *(Graceful English fallbacks)*
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ **Advanced i18n Infrastructure**
+- **🏗️ React i18next** - Professional internationalization library
+- **💾 localStorage Persistence** - Language choice saved across sessions
+- **🎯 Smart Fallbacks** - Graceful handling of missing translations  
+- **🚀 Zero Performance Impact** - Optimized lazy loading
+- **🎨 Flag Emojis** - Visual language identification
+- **🔄 Real-time Updates** - Instant interface translation
+
+### 🚀 **Business Impact**
+- **🌍 Global Market Access** - Remove barriers for 4+ billion non-English speakers
+- **🏆 Competitive Advantage** - Most DeFi platforms are English-only
+- **💎 Professional Image** - Shows commitment to international users
+- **📈 User Acquisition** - Enables expansion into Spanish, European, Asian markets
+
+</td>
+</tr>
+</table>
 - **🔑 Login/Signup**: Pre-authentication access removes barriers
 - **📱 Dashboard**: Globe icon with current language flag always visible  
 - **⚙️ Profile Settings**: Comprehensive language preferences section
